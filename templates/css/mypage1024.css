@@ -1,6 +1,6 @@
 .box1 {
     top: 165px;
-    left: 265px;
+    left: 20px;
     width: 1000px;
     height: 200px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -12,7 +12,7 @@
 
 .box2 {
     top: 430px;
-    left: 265px;
+    left: 50px;
     width: 1000px;
     height: 500px;
     opacity: 1;
@@ -23,7 +23,7 @@
 
 .button {
     top: 864px;
-    left: 265px;
+    left: 50px;
     width: 200px;
     height: 50px;
     background: var(--unnamed-color-e84949) 0% 0% no-repeat padding-box;
@@ -34,7 +34,7 @@
     position: absolute;
 
     top: 876px;
-    left: 265px;
+   
     width: 180px;
     height: 45px;
     font: Bold var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-noto-sans);
@@ -49,7 +49,7 @@
 
 .money {
     top: 860px;
-    left: 460px;
+    left: 250px;
     width: 123px;
     height: 33px;
     font: var(--unnamed-font-size-22)/var(--unnamed-line-spacing-33) var(--unnamed-font-family-noto-sans);
@@ -65,7 +65,7 @@
 
 .box3 {
     top: 998px;
-    left: 265px;
+    left: 50px;
     width: 1000px;
     height: 347px;
     opacity: 1;
@@ -191,7 +191,7 @@
 }
 
 .button2 {
-    left: 50px;
+    left: 10px;
     width: 70px;
     height: 112px;
     opacity: 1;
@@ -277,7 +277,7 @@
 }
 
 .button3 {
-    left: 280px;
+    left: 240px;
     width: 70px;
     height: 112px;
     opacity: 1;
@@ -329,7 +329,7 @@
 }
 
 .button4 {
-    left: 450px;
+    left: 410px;
     width: 70px;
     height: 112px;
     opacity: 1;
@@ -539,7 +539,7 @@
 .point1 {
     position: absolute;
     top: 605px;
-    left: 1300px;
+    left: 1100px;
     width: 10px;
     height: 15px;
     margin-left: -12px;
@@ -556,7 +556,7 @@
 .point2 {
     position: absolute;
     top: 1180px;
-    left: 1300px;
+    left: 1100px;
     width: 10px;
     height: 15px;
     margin-left: -12px;
@@ -598,7 +598,7 @@
 
     position: absolute;
     top: 605px;
-    left: 225px;
+    left: 30px;
     width: 10px;
     height: 15px;
     margin-left: -12px;
@@ -610,13 +610,12 @@
     transform: rotate(225deg);
     box-sizing: border-box;
     background-color: transparent;
-
 }
 
 .point5{
     position: absolute;
     top: 1180px;
-    left: 225px;
+    left: 30px;
     width: 10px;
     height: 15px;
     margin-left: -12px;

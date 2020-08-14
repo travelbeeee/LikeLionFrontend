@@ -1,8 +1,8 @@
 .box1 {
     top: 165px;
-    left: 265px;
-    width: 1000px;
-    height: 200px;
+    left: 20px;
+    width: 680px;
+    height: 360px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 2px 2px 14px #00000029;
     border-radius: 20px;
@@ -11,8 +11,8 @@
 }
 
 .box2 {
-    top: 430px;
-    left: 265px;
+    top: 530px;
+    left: 100px;
     width: 1000px;
     height: 500px;
     opacity: 1;
@@ -22,8 +22,8 @@
 
 
 .button {
-    top: 864px;
-    left: 265px;
+    top: 1210px;
+    left: 100px;
     width: 200px;
     height: 50px;
     background: var(--unnamed-color-e84949) 0% 0% no-repeat padding-box;
@@ -33,8 +33,7 @@
     opacity: 1;
     position: absolute;
 
-    top: 876px;
-    left: 265px;
+
     width: 180px;
     height: 45px;
     font: Bold var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-noto-sans);
@@ -48,8 +47,8 @@
 }
 
 .money {
-    top: 860px;
-    left: 460px;
+    top: 1195px;
+    left: 300px;
     width: 123px;
     height: 33px;
     font: var(--unnamed-font-size-22)/var(--unnamed-line-spacing-33) var(--unnamed-font-family-noto-sans);
@@ -64,8 +63,8 @@
 }
 
 .box3 {
-    top: 998px;
-    left: 265px;
+    top: 1280px;
+    left: 100px;
     width: 1000px;
     height: 347px;
     opacity: 1;
@@ -184,14 +183,18 @@
 }
 
 .verticalline {
-    left: 380px;
-    height: 140px;
-    border-left: 1px solid #00000029;
+    top: 150px;
+    left: -40px;
+    height: 200px;
+    width: 680px;
     position: absolute;
+    border-left: transparent;
+    border-top: solid 1px  #00000029;
 }
 
 .button2 {
-    left: 50px;
+    top: 15px;
+    left: 90px;
     width: 70px;
     height: 112px;
     opacity: 1;
@@ -277,7 +280,8 @@
 }
 
 .button3 {
-    left: 280px;
+    top: 15px;
+    left: 320px;
     width: 70px;
     height: 112px;
     opacity: 1;
@@ -329,7 +333,8 @@
 }
 
 .button4 {
-    left: 450px;
+    top: 15px;
+    left: 490px;
     width: 70px;
     height: 112px;
     opacity: 1;
@@ -436,7 +441,7 @@
 }
 
 .list1text1 {
-    top: 210px;
+    top: 195px;
     width: 290px;
     height: 29px;
     font: Bold var(--unnamed-font-size-16)/var(--unnamed-line-spacing-20) var(--unnamed-font-family-noto-sans);
@@ -451,7 +456,7 @@
 }
 
 .list1text2 {
-    top: 240px;
+    top: 220px;
     width: 80px;
     height: 27px;
     font: Regular var(--unnamed-font-size-20)/var(--unnamed-line-spacing-27) var(--unnamed-font-family-noto-sans);
@@ -479,8 +484,8 @@
 }
 
 .list3 {
-    top: 80px;
-    left: 512px;
+    top: 360px;
+    left: 0px;
     width: 226px;
     height: 200px;
     background: transparent url('img/piggy-bank-968302_1920.png') 0% 0% no-repeat padding-box;
@@ -491,8 +496,8 @@
 }
 
 .list4 {
-    top: 80px;
-    left: 768px;
+    top: 360px;
+    left: 256px;
     width: 226px;
     height: 200px;
     background: transparent url('img/home-office-599475_1920.png') 0% 0% no-repeat padding-box;
@@ -503,9 +508,9 @@
 }
 
 .bottom {
-    top: 1800px;
-    left: 0px;
-    width: 1550px;
+    top: 1970px;
+    left: -85px;
+    width: 1024px;
     height: 200px;
     border: 1px solid var(--unnamed-color-c7c7c7);
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -515,7 +520,7 @@
 }
 
 .box3review {
-    top: 260px;
+    top: 240px;
     left: 0px;
     width: 120px;
     height: 30px;
@@ -538,8 +543,8 @@
 
 .point1 {
     position: absolute;
-    top: 605px;
-    left: 1300px;
+    top: 855px;
+    left: 640px;
     width: 10px;
     height: 15px;
     margin-left: -12px;
@@ -555,8 +560,8 @@
 
 .point2 {
     position: absolute;
-    top: 1180px;
-    left: 1300px;
+    top: 1600px;
+    left: 640px;
     width: 10px;
     height: 15px;
     margin-left: -12px;
@@ -597,8 +602,8 @@
 .point4 {
 
     position: absolute;
-    top: 605px;
-    left: 225px;
+    top: 855px;
+    left: 60px;
     width: 10px;
     height: 15px;
     margin-left: -12px;
@@ -610,13 +615,12 @@
     transform: rotate(225deg);
     box-sizing: border-box;
     background-color: transparent;
-
 }
 
 .point5{
     position: absolute;
-    top: 1180px;
-    left: 225px;
+    top: 1600px;
+    left: 60px;
     width: 10px;
     height: 15px;
     margin-left: -12px;

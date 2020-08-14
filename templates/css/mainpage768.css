@@ -1,7 +1,7 @@
 .red {
     top: 80px;
     left: -15px;
-    width: 768px;
+    width: 1550px;
     height: 320px;
     border: 1px solid var(--unnamed-color-c7c7c7);
     background: transparent url('img/red.png') 0% 0% no-repeat padding-box;
@@ -12,7 +12,7 @@
 
 .text1 {
     top: 50px;
-    left: 230px;
+    left: 250px;
     width: 372px;
     height: 100px;
     font: Bold 30px/40px var(--unnamed-font-family-noto-sans);
@@ -27,7 +27,7 @@
 
 .text2 {
     top: 170px;
-    left: 230px;
+    left: 250px;
     width: 372px;
     height: 24px;
     font: Regular var(--unnamed-font-size-18)/var(--unnamed-line-spacing-24) var(--unnamed-font-family-noto-sans);
@@ -44,7 +44,7 @@
 
 .search {
     top: 260px;
-    left: 350px;
+    left: 370px;
     font: Regular var(--unnamed-font-size-10)/var(--unnamed-line-spacing-18) var(--unnamed-font-family-noto-sans);
     text-align: center;
     font: Regular 10px/18px Noto Sans;
