@@ -101,6 +101,7 @@
     position: absolute;
 }
 
+
 .img1 {
     top: 300px;
     left: 100px;
@@ -114,14 +115,14 @@
 }
 
 .filledheart {
-    top: 20px;
-    left: 24px;
+    top: 200px;
+    left: 100px;
     width: 28px;
     height: 28px;
     background: transparent url('img/heart-pick.png') 0% 0% no-repeat padding-box;
     border: transparent;
     opacity: 1;
-    position: absolute;
+    position: relative;
 }
 
 .unfilledheart {
@@ -148,6 +149,7 @@
     color: #535353;
     opacity: 1;
     position: absolute;
+    margin-top: 15px;
 }
 
 .img1-2 {
@@ -163,6 +165,7 @@
     color: #9F9F9F;
     opacity: 1;
     position: absolute;
+    margin-top: 15px;
 }
 
 .img1-3 {

@@ -62,11 +62,11 @@
 }
 
 .pdf {
-    top: 210px;
+  
     width: 1000px;
     height: 200px;
     opacity: 1;
-    position: absolute;
+
 }
 
 .text3 {
@@ -74,11 +74,11 @@
     left: 10px;
     width: 330px;
     height: 41px;
-    font: Bold var(--unnamed-font-size-25)/var(--unnamed-line-spacing-41) var(--unnamed-font-family-noto-sans);
+    font: normal Bold var(--unnamed-font-size-25)/var(--unnamed-line-spacing-41) var(--unnamed-font-family-noto-sans);
     letter-spacing: var(--unnamed-character-spacing-0);
     color: var(--unnamed-color-313131);
     text-align: left;
-    font: Bold 25px/41px Noto Sans;
+    font: normal Bold 25px/41px Noto Sans;
     letter-spacing: 0px;
     color: #313131;
     opacity: 1;
@@ -102,15 +102,13 @@
 }
 
 .img1 {
-    top: 300px;
-    left: 10px;
+    
     width: 350px;
     height: 250px;
     background: transparent url('img/fountain-pen-1854169_1920-1.png') 0% 0% no-repeat padding-box;
     border: 1px solid #E0E0E0;
     border-radius: 18px;
     opacity: 1;
-    position: absolute;
 }
 
 .filledheart {
@@ -136,9 +134,8 @@
 }
 
 .img1-1 {
-    top: 250px;
-    width: 400px;
-    height: 31px;
+
+
     text-align: left;
     font: SemiBold var(--unnamed-font-size-15)/var(--unnamed-line-spacing-30) var(--unnamed-font-family-noto-sans);
     letter-spacing: var(--unnamed-character-spacing-0);
@@ -147,7 +144,8 @@
     letter-spacing: 0px;
     color: #535353;
     opacity: 1;
-    position: absolute;
+    margin: 15px;
+    position: relative;
 }
 
 .img1-2 {
@@ -249,11 +247,11 @@
     left: 50px;
     width: 300px;
     height: 38px;
-    font: SemiBold 25px/35px var(--unnamed-font-family-noto-sans);
+    font: normal SemiBold 25px/35px var(--unnamed-font-family-noto-sans);
     letter-spacing: var(--unnamed-character-spacing-0);
     color: var(--unnamed-color-313131);
     text-align: left;
-    font: Bold 25px/35px Noto Sans;
+    font:normal Bold 25px/35px Noto Sans;
     letter-spacing: 0px;
     color: #313131;
     opacity: 1;
